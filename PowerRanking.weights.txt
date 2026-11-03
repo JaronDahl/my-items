@@ -1,0 +1,8 @@
+# 综合国力权重示例，脚本会自动归一化为总和 100%
+# 复制此文件到 worldbox_Data\StreamingAssets\mods\PowerRanking.weights.txt 即可生效
+military=25
+economy=25
+population=15
+cities=10
+renown=10
+territory=15
