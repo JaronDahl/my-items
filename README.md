@@ -48,13 +48,3 @@ territory=15
 - 不修改、不替换、不删除任何游戏文件或存档。
 - 仅读取数据并新建独立窗口，不影响原版 `list_kingdoms` 排行榜。
 
-## 发布说明（重要）
-
-WorldBox 的 **Steam 创意工坊只支持地图/世界，不支持代码模组（DLL）**，因此本模组不能上传到创意工坊。推荐发布渠道：
-
-- GitHub Release
-- Nexus Mods
-- Thunderstore（WorldBox 分区）
-- 社区模组站 / 网盘
-
-上传时只需包含本目录内的文件（不含源码与开发工具）。
