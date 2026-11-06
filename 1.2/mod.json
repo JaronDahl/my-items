@@ -1,0 +1,10 @@
+{
+  "name": "Comprehensive Power Ranking",
+  "author": "KentJ",
+  "version": "1.3.0",
+  "description": "Adds a standalone comprehensive national power ranking to WorldBox, scoring each civilization by military, economy, population, territory, city development and national influence using a weighted geometric mean. Press F8 to open.\n\n为 WorldBox 新增一个综合国力排行榜，综合评估每个文明国家的军事实力、经济、人口、领土、城市发展、国家影响力。按 F8 打开。",
+  "iconPath": "icon.png",
+  "Dependencies": [],
+  "OptionalDependencies": [],
+  "IncompatibleWith": []
+}
