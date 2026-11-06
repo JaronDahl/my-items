@@ -1,0 +1,9 @@
+# 综合国力权重（脚本会自动归一化为总和 100%）
+# 六个维度：军事 / 经济 / 人口 / 领土 / 发展 / 影响力
+# 支持旧键 cities=development、renown=influence
+military=20
+economy=20
+population=15
+territory=15
+development=15
+influence=15

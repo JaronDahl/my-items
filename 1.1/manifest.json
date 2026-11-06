@@ -1,0 +1,19 @@
+{
+  "name": "Comprehensive Power Ranking",
+  "name_cn": "综合国力排行榜",
+  "id": "power_ranking",
+  "version": "1.1.0",
+  "author": "KentJ",
+  "website_url": "",
+  "description": "Adds a standalone comprehensive national power ranking for WorldBox, scoring each civilization across six dimensions (military, economy, population, territory, city development, national influence) with a weighted geometric mean.",
+  "description_cn": "为 WorldBox 新增综合国力排行榜，用加权几何平均综合评估每个文明国家的军事、经济、人口、领土、城市发展、国家影响力。",
+  "game": "WorldBox - God Simulator",
+  "loader": "NeoModLoader (NML)",
+  "dependencies": [
+    "NeoModLoader"
+  ],
+  "compatibility": {
+    "unity": "2022.3.60f1",
+    "note": "Built against the public WorldBox game API; no game files are modified."
+  }
+}
